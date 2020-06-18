@@ -1,1 +1,1 @@
-# SignalR
+# ASP.NET Core SignalR
